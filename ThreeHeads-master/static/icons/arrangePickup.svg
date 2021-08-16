@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.95463 24">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>arrangePickup</title>
+  <path class="a" d="M18.5,12.5h4c3.976,0-5.092-7.5-10.458-7.5C6.262,5-2.398,12.5,1.5,12.5h4" transform="translate(-0.02453)"/>
+  <path class="a" d="M13.5,2A1.5,1.5,0,1,0,12,3.5L12.042,5" transform="translate(-0.02453)"/>
+  <rect class="a" x="5.47547" y="9.5" width="13" height="14"/>
+  <line class="a" x1="5.47547" y1="20.5" x2="18.47547" y2="20.5"/>
+</svg>

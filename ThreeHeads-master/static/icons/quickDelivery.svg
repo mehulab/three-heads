@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21.0107">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .b {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>quickDelivery</title>
+  <polyline class="a" points="16.5 11.495 21 11.495 23.5 15.495 23.5 16.995 23.5 18.485 21 18.485"/>
+  <polyline class="a" points="11 18.517 16.5 18.511 16.5 8.495 11 8.495"/>
+  <polyline class="a" points="5.5 10.995 5.5 18.517 8 18.517"/>
+  <circle class="a" cx="19.5" cy="19.0107" r="1.5"/>
+  <circle class="a" cx="9.5" cy="19.0107" r="1.5"/>
+  <path class="a" d="M9.5,5.9893a4.542,4.542,0,0,1-4.5,4.5,4.542,4.542,0,0,1-4.5-4.5,4.54133,4.54133,0,0,1,4.5-4.5A4.54133,4.54133,0,0,1,9.5,5.9893Z" transform="translate(0 -0.9893)"/>
+  <polyline class="b" points="4.5 2.495 4.5 5.495 6.5 5.495"/>
+  <line class="b" x1="0.5" y1="13.4951" x2="3.5" y2="13.5001"/>
+  <line class="b" x1="2" y1="15.4951" x2="3.5" y2="15.5001"/>
+  <line class="b" x1="3" y1="17.4951" x2="3.5" y2="17.5001"/>
+  <line class="a" x1="16.5" y1="15.4951" x2="23.187" y2="15.4951"/>
+  <line class="a" x1="16.4375" y1="18.6103" x2="16.4685" y2="18.5783"/>
+  <line class="a" x1="16.5107" y1="18.4951" x2="18.1667" y2="18.4951"/>
+</svg>
